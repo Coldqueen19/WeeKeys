@@ -11,3 +11,10 @@ I created my schematic for the PCB.
 
 
 <img width="741" height="405" alt="image" src="https://github.com/user-attachments/assets/77d0c5e1-a965-49ce-abb4-a1b8dfe17346" />
+
+## Pathfinder Session 3 - [40 minutes]
+
+I created the PCB layout and started coding.
+
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/51c81337-efd9-47f7-8bfe-00699c8ecb6f" />
+<img width="637" height="486" alt="image" src="https://github.com/user-attachments/assets/0c3974b3-8d70-465d-98a2-cca40964beed" />
