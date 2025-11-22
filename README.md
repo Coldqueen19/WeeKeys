@@ -18,3 +18,9 @@ I created the PCB layout and started coding.
 
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/51c81337-efd9-47f7-8bfe-00699c8ecb6f" />
 <img width="637" height="486" alt="image" src="https://github.com/user-attachments/assets/0c3974b3-8d70-465d-98a2-cca40964beed" />
+
+## Pathfinder Session 4 - [2 hours]
+
+Finished coding
+
+<img width="659" height="566" alt="image" src="https://github.com/user-attachments/assets/3fde944e-a361-47e9-89e9-e31d8d0d878a" />
